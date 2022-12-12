@@ -21,12 +21,12 @@
   "devDependencies": {
     "@akashic/akashic-cli": "2.16.5",
     "@akashic/akashic-engine": "2.6.7",
-    "@types/jest": "27.5.2",
-    "jest": "27.5.1",
+    "@types/jest": "29.2.4",
+    "jest": "29.3.1",
     "npm-run-all": "4.1.5",
     "prettier": "2.8.1",
     "rimraf": "3.0.2",
-    "ts-jest": "27.1.5",
+    "ts-jest": "29.0.3",
     "typescript": "4.9.4"
   },
   "jest": {
