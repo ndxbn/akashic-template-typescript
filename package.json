@@ -21,7 +21,7 @@
   "devDependencies": {
     "@akashic/akashic-cli": "2.16.5",
     "@akashic/akashic-engine": "2.6.7",
-    "@types/jest": "29.2.4",
+    "@types/jest": "29.2.5",
     "jest": "29.3.1",
     "npm-run-all": "4.1.5",
     "prettier": "2.8.1",
